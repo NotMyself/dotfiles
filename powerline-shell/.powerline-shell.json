@@ -1,0 +1,15 @@
+{
+  "segments": [
+    "username",
+    "optimistprime",
+    "cwd",
+    "git",
+    "newline"
+  ],
+  "mode": "patched",
+  "cwd": {
+    "mode": "plain",
+    "max_depth": 4
+  },
+  "theme": "default"
+}

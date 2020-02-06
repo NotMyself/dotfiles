@@ -1,0 +1,16 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Bobby Johnson
+	email = bobby.johnson@auth0.com
+[merge]
+	tool = vscode
+[mergetool "vscode"]
+	cmd = "code --wait $MERGED"
+[diff]
+	tool = vscode
+[difftool "vscode"]
+	cmd = "code --wait --diff  $LOCAL $REMOTE"
+[core]
+	editor = code --wait
+[alias]
+	cm = !git add -A && git commit -m
