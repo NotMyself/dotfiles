@@ -10,3 +10,7 @@ function ensure-1p {
 function chatty(){
     open /Applications/Chatty/Chatty.jar
 }
+
+function backup-vs(){
+  code --list-extensions > ~/.dotfiles/vscode/extensions
+}
