@@ -1,0 +1,18 @@
+#!/usr/bin/env sh
+
+# shell settings
+ln -sv /Users/bobby/.dotfiles/zsh/.zshrc ~/.zshrc
+ln -sv /Users/bobby/.dotfiles/powerline-shell/.powerline-shell.json ~/.powerline-shell.json
+
+# git configurations
+ln -sv /Users/bobby/.dotfiles/git/.gitconfig ~/.gitconfig
+
+
+# vscode settings
+ln -sv /Users/bobby/.dotfiles/vscode/settings.json /Users/bobby/Library/Application\ Support/Code/User/settings.json
+ln -sv /Users/bobby/.dotfiles/vscode/keybindings.json /Users/bobby/Library/Application\ Support/Code/User/keybindings.json
+ln -sv /Users/bobby/.dotfiles/vscode/snippets/ /Users/bobby/Library/Application\ Support/Code/User
+#cat ~/.dotfiles/vscode/extensions | while read extension
+#do
+#    code --install-extension $extension --force
+#done

@@ -1,0 +1,10 @@
+alias l="ls -la"       # List in long format, include dotfiles
+alias ld="ls -ld */"   # List in long format, only directories
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+# Recursively remove .DS_Store files
+alias cleanupds="find . -type f -name '*.DS_Store' -ls -delete"
+
+alias notes="hads /Users/bobby/OneDrive/Notes -o"
+alias site="ssh -i /Users/bobby/OneDrive/Security/louiebot.pem ubuntu@ec2-52-9-39-181.us-west-1.compute.amazonaws.com"

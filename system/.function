@@ -1,0 +1,12 @@
+# Create a new directory and enter it
+function mk() {
+  mkdir -p "$@" && cd "$@"
+}
+
+function ensure-1p {
+  op list vaults > /dev/null 2>&1 || eval $(op signin auth0)
+}
+
+function chatty(){
+    open /Applications/Chatty/Chatty.jar
+}
