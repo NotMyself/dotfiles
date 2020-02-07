@@ -11,7 +11,7 @@
     "sync.pathPrefix": "",
     "sync.quietSync": false,
     "sync.askGistName": false,
-    "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
+    "terminal.integrated.fontFamily": "Fira Mono for Powerline",
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.fontLigatures": true,
     "workbench.colorTheme": "Monokai",
