@@ -87,5 +87,6 @@
             "name": "Vue Green",
             "value": "#42b883"
         }
-    ]
+    ],
+    "workbench.sideBar.location": "right"
 }
