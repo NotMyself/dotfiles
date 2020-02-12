@@ -88,5 +88,7 @@
             "value": "#42b883"
         }
     ],
-    "workbench.sideBar.location": "right"
+    "workbench.sideBar.location": "right",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Fira Mono for Powerline"
 }
