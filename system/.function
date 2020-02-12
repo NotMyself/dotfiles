@@ -14,3 +14,13 @@ function chatty(){
 function backup-vs(){
   code --list-extensions > ~/.dotfiles/vscode/extensions
 }
+
+function desktop-stream() {
+  osascript ~/.dotfiles/apple-script/stream-desktop.scpt
+}
+
+function desktop-reset() {
+  osascript ~/.dotfiles/apple-script/normal-desktop.scpt
+}
+
+
