@@ -1,7 +1,8 @@
 # This is Git's per-user configuration file.
 [user]
 	name = Bobby Johnson
-	email = bobby.johnson@auth0.com
+	email = bobby.johnson@gmail.com
+	signingkey = 0E66B483EDA47168
 [merge]
 	tool = vscode
 [mergetool "vscode"]
@@ -14,3 +15,5 @@
 	editor = code --wait
 [alias]
 	cm = !git add -A && git commit -m
+[commit]
+	gpgsign = true
