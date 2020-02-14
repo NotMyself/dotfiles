@@ -55872,7 +55872,7 @@
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>1410 788 620 392 0 0 3440 1417 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>1124 155 1210 850 0 0 3440 1417 </string>
+	<string>1481 397 1210 850 0 0 3440 1417 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -56515,6 +56515,7 @@
 	<key>NoSyncAllAppVersions</key>
 	<array>
 		<string>3.3.8</string>
+		<string>3.3.9</string>
 	</array>
 	<key>NoSyncBFPRecents</key>
 	<array>
@@ -56538,7 +56539,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>F37E6C66-517D-4993-A938-8B9783CC2CC6</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>20</integer>
+	<integer>21</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -57299,14 +57300,16 @@
 	<key>SUUpdateGroupIdentifier</key>
 	<integer>337647945</integer>
 	<key>SUUpdateRelaunchingMarker</key>
-	<true/>
+	<false/>
 	<key>SoundForEsc</key>
+	<false/>
+	<key>StretchTabsToFillBar</key>
 	<false/>
 	<key>TabStyleWithAutomaticOption</key>
 	<integer>1</integer>
 	<key>VisualIndicatorForEsc</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.3.8</string>
+	<string>3.3.9</string>
 </dict>
 </plist>

@@ -1,33 +1,15 @@
 {
-    "python.linting.enabledWithoutWorkspace": false,
-    "sync.gist": "a17c8a1206b6c3b2dbd9f4b1d30de986",
-    "sync.lastUpload": "2017-07-24T22:51:10.923Z",
-    "sync.autoDownload": false,
-    "sync.autoUpload": false,
-    "sync.lastDownload": "",
-    "sync.forceDownload": false,
-    "sync.anonymousGist": false,
-    "sync.host": "",
-    "sync.pathPrefix": "",
-    "sync.quietSync": false,
-    "sync.askGistName": false,
+    "terminal.external.osxExec": "iTerm.app",
     "terminal.integrated.fontFamily": "Fira Mono for Powerline",
-    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontSize": 16,
     "terminal.integrated.fontLigatures": true,
     "workbench.colorTheme": "Monokai",
-    "window.zoomLevel": 0,
+    "workbench.sideBar.location": "right",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Fira Mono for Powerline",
     "editor.tabSize": 2,
-    "editor.minimap.enabled": false,
-    "gitlens.advanced.messages": {
-        "suppressCommitHasNoPreviousCommitWarning": false,
-        "suppressCommitNotFoundWarning": false,
-        "suppressFileNotUnderSourceControlWarning": false,
-        "suppressGitVersionWarning": false,
-        "suppressLineUncommittedWarning": false,
-        "suppressNoRepositoryWarning": false,
-        "suppressUpdateNotice": false,
-        "suppressWelcomeNotice": true
-    },
+    "editor.minimap.enabled": false,    
+    "window.zoomLevel": 0,
     // Set the default
     "editor.formatOnSave": false,
     // Enable per-language
@@ -87,8 +69,5 @@
             "name": "Vue Green",
             "value": "#42b883"
         }
-    ],
-    "workbench.sideBar.location": "right",
-    "editor.fontSize": 16,
-    "editor.fontFamily": "Fira Mono for Powerline"
+    ]
 }

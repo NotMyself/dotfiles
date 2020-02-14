@@ -7,4 +7,4 @@ alias ....="cd ../../.."
 alias cleanupds="find . -type f -name '*.DS_Store' -ls -delete"
 
 alias notes="hads /Users/bobby/OneDrive/Notes -o"
-alias site="ssh -i /Users/bobby/OneDrive/Security/louiebot.pem ubuntu@ec2-52-9-39-181.us-west-1.compute.amazonaws.com"
+alias site="ssh -i /Users/bobby/OneDrive/Security/louiebot.pem ubuntu@iamnotmyself.com"
