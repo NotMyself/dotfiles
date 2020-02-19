@@ -23,4 +23,7 @@ function desktop-reset() {
   osascript ~/.dotfiles/apple-script/normal-desktop.scpt
 }
 
-
+function convert-webm() {
+  file=`basename "$1"`
+  ffmpeg -i $@ -c:v libvpx-vp9 -b:v 2M "${file%.*}.webm"
+}
