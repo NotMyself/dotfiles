@@ -9,7 +9,7 @@
     "editor.fontFamily": "Fira Mono for Powerline",
     "editor.tabSize": 2,
     "editor.minimap.enabled": false,    
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 2,
     // Set the default
     "editor.formatOnSave": false,
     // Enable per-language
