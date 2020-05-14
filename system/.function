@@ -19,6 +19,10 @@ function desktop-stream() {
   osascript ~/.dotfiles/apple-script/stream-desktop.scpt
 }
 
+function desktop-capture() {
+  osascript ~/.dotfiles/apple-script/capture-desktop.scpt
+}
+
 function desktop-reset() {
   osascript ~/.dotfiles/apple-script/normal-desktop.scpt
 }

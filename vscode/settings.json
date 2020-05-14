@@ -9,12 +9,13 @@
     "editor.fontFamily": "Fira Mono for Powerline",
     "editor.tabSize": 2,
     "editor.minimap.enabled": false,    
-    "window.zoomLevel": 2,
+    "window.zoomLevel": 3,
     // Set the default
     "editor.formatOnSave": false,
     // Enable per-language
     "[javascript]": {
-        "editor.formatOnSave": true
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "peacock.favoriteColors": [
         {
