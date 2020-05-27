@@ -13,6 +13,7 @@ mikestead.dotenv
 ms-azuretools.vscode-docker
 ms-dotnettools.csharp
 msjsdiag.debugger-for-chrome
+nicollasr.vscode-streamdeck
 octref.vetur
 pflannery.vscode-versionlens
 piotrpalarz.vscode-gitignore-generator

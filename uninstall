@@ -2,7 +2,6 @@
 
 # shell settings
 rm ~/.zshrc
-rm ~/.powerline-shell.json
 
 # git configurations
 rm ~/.gitconfig

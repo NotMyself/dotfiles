@@ -2,7 +2,6 @@
 
 # shell settings
 ln -sv /Users/bobby/.dotfiles/zsh/.zshrc ~/.zshrc
-ln -sv /Users/bobby/.dotfiles/powerline-shell/.powerline-shell.json ~/.powerline-shell.json
 
 # git configurations
 ln -sv /Users/bobby/.dotfiles/git/.gitconfig ~/.gitconfig
