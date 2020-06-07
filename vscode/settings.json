@@ -71,5 +71,6 @@
             "value": "#42b883"
         }
     ],
-    "grammarly.domain": "technical"
+    "grammarly.domain": "technical",
+    "terminal.integrated.shell.osx": "/bin/zsh"
 }
