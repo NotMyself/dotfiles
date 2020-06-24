@@ -1,3 +1,5 @@
 # Add Python 3.7 bin to path
 export PATH="/Users/bobby/Library/Python/3.7/bin/:$PATH";
 
+# Add .NET Core SDK tools
+export PATH="$PATH:/Users/bobby/.dotnet/tools"
