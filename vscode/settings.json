@@ -72,5 +72,6 @@
         }
     ],
     "grammarly.domain": "technical",
-    "terminal.integrated.shell.osx": "/bin/zsh"
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "debug.javascript.usePreview": true
 }
