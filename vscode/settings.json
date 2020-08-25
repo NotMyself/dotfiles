@@ -73,5 +73,9 @@
     ],
     "grammarly.domain": "technical",
     "terminal.integrated.shell.osx": "/bin/zsh",
-    "debug.javascript.usePreview": true
+    "debug.javascript.usePreview": true,
+    "codespaces.accountProvider": "GitHub",
+    "remote.extensionKind": {
+        "ms-azuretools.vscode-docker": "workspace"
+    }
 }
