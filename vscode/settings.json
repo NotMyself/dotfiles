@@ -71,11 +71,15 @@
             "value": "#42b883"
         }
     ],
-    "grammarly.domain": "technical",
     "terminal.integrated.shell.osx": "/bin/zsh",
     "debug.javascript.usePreview": true,
     "codespaces.accountProvider": "GitHub",
     "remote.extensionKind": {
         "ms-azuretools.vscode-docker": "workspace"
-    }
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "codetour.showMarkers": false
 }

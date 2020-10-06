@@ -3,6 +3,7 @@ bierner.markdown-checkbox
 christian-kohler.npm-intellisense
 CoenraadS.bracket-pair-colorizer
 dbaeumer.vscode-eslint
+ecmel.vscode-html-css
 EditorConfig.EditorConfig
 eg2.vscode-npm-script
 esbenp.prettier-vscode
@@ -12,6 +13,7 @@ humao.rest-client
 idleberg.applescript
 johnpapa.vscode-peacock
 mikestead.dotenv
+mkaufman.HTMLHint
 ms-azuretools.vscode-docker
 ms-dotnettools.csharp
 ms-vscode-remote.remote-containers
@@ -26,6 +28,7 @@ octref.vetur
 pflannery.vscode-versionlens
 piotrpalarz.vscode-gitignore-generator
 pnp.polacode
+ritwickdey.LiveServer
 rpinski.shebang-snippets
 ryuta46.multi-command
 sdras.vue-vscode-snippets
@@ -33,3 +36,4 @@ vscode-icons-team.vscode-icons
 vsls-contrib.codetour
 vsls-contrib.gistfs
 wix.vscode-import-cost
+Zignd.html-css-class-completion
