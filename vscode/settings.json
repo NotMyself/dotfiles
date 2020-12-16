@@ -88,5 +88,6 @@
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "workbench.editor.pinnedTabSizing": "compact"
+    "workbench.editor.pinnedTabSizing": "compact",
+    "diffEditor.ignoreTrimWhitespace": false
 }
