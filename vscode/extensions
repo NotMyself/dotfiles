@@ -1,15 +1,18 @@
+Auth0.auth0-vsce
 bierner.emojisense
 bierner.markdown-checkbox
 christian-kohler.npm-intellisense
 christian-kohler.path-intellisense
 CoenraadS.bracket-pair-colorizer
 dbaeumer.vscode-eslint
+eamodio.tsl-problem-matcher
 ecmel.vscode-html-css
 EditorConfig.EditorConfig
 eg2.vscode-npm-script
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
 GitHub.vscode-pull-request-github
+hjb2012.vscode-es6-string-html
 humao.rest-client
 idleberg.applescript
 johnpapa.vscode-peacock
@@ -29,6 +32,7 @@ octref.vetur
 pflannery.vscode-versionlens
 piotrpalarz.vscode-gitignore-generator
 pnp.polacode
+PrzemyslawOnak.pimp-my-avalonia
 ritwickdey.LiveServer
 rpinski.shebang-snippets
 ryuta46.multi-command

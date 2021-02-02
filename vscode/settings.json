@@ -89,5 +89,6 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "workbench.editor.pinnedTabSizing": "compact",
-    "diffEditor.ignoreTrimWhitespace": false
+    "diffEditor.ignoreTrimWhitespace": false,
+    "vsicons.dontShowNewVersionMessage": true
 }
