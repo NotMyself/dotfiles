@@ -26,3 +26,5 @@
 	ff = only
 [init]
 	defaultBranch = main
+[gpg]
+	program = gpg
