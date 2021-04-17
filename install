@@ -10,6 +10,7 @@ ln -sv /Users/bobby/.dotfiles/git/.gitconfig ~/.gitconfig
 ln -sv /Users/bobby/.dotfiles/vscode/settings.json /Users/bobby/Library/Application\ Support/Code/User/settings.json
 ln -sv /Users/bobby/.dotfiles/vscode/keybindings.json /Users/bobby/Library/Application\ Support/Code/User/keybindings.json
 ln -sv /Users/bobby/.dotfiles/vscode/snippets/ /Users/bobby/Library/Application\ Support/Code/User
+
 cat ~/.dotfiles/vscode/extensions | while read extension
 do
     code --install-extension $extension --force
