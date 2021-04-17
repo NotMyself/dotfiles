@@ -1,7 +1,6 @@
 {
     "terminal.external.osxExec": "iTerm.app",
-    "terminal.integrated.fontFamily": "Fira Mono for Powerline",
-    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontFamily": "MesloLGS NF",
     "terminal.integrated.fontLigatures": true,
     "workbench.colorTheme": "Monokai",
     "workbench.sideBar.location": "right",
